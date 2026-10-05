@@ -1,0 +1,166 @@
+{
+  "profiles": {
+    "forge-1.8.9": {
+      "version": "1.17.0",
+      "minecraft": "1.8.9",
+      "loader": {
+        "forge": "11.15.1.2318"
+      },
+      "mods": [
+        {
+          "file": "cloudclient-forge-mc1.8.9-1.17.0.jar",
+          "url": "https://raw.githubusercontent.com/pluters/cloudclient-downloads/main/files/forge-1.8.9/cloudclient-forge-mc1.8.9-1.17.0.jar",
+          "sha512": "ac04c118370e2d509f03296733468eaabfe25ca77784eef2c796879e7e12b4203dbaf7a14416967654b742ff1b5df6956f92a6d54bc25b5676f5274212b72df7",
+          "size": 3067524
+        },
+        {
+          "file": "OptiFine_1.8.9_HD_U_M5.jar",
+          "url": "https://raw.githubusercontent.com/pluters/cloudclient-downloads/main/files/forge-1.8.9/OptiFine_1.8.9_HD_U_M5.jar",
+          "sha512": "459dd48fd88cbf3e91e7b02790e272279465978a5bde8e85409afa28cd1b0c9022195588afcc2f63acdec5688ac3e93adf7e9870da28548c3b1c292a598426de",
+          "size": 2585014
+        },
+        {
+          "file": "entityculling-forge-mc1.8.9-1.5.0.jar",
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/1.5.0-forge-1.8.9/entityculling-forge-mc1.8.9-1.5.0.jar",
+          "sha512": "af587b299cdf0ac1cc2892fd2e52c715d36c9ecffddd1f7ce71426fc988eccc54eda70b6f66b114813ff521fcdd1e3e871f559139d23c3a1b87c11d5f795a931",
+          "size": 3659166
+        },
+        {
+          "file": "BetterFps-1.2.0.jar",
+          "url": "https://raw.githubusercontent.com/pluters/cloudclient-downloads/main/files/forge-1.8.9/BetterFps-1.2.0.jar",
+          "sha512": "58e50447f6cef279fa88ec3e75eaa0f8e700a9eeef3ff70332c57f9ea5da2cbb8066210bbee4c332afd47645668c543110ac038c5f07a5be883fd6bcc0be4301",
+          "size": 62916
+        },
+        {
+          "file": "MemoryFix-0.3.jar",
+          "url": "https://github.com/prplz/MemoryFix/releases/download/0.3/MemoryFix-0.3.jar",
+          "sha512": "9189265cbdd1342c01fde034767ed65bbe742bde5a70af3eebb11940a6912decad4a06c02bc0d088d4430c09b2da4896053e61a8c64398331815dd46516eadda",
+          "size": 12002
+        },
+        {
+          "file": "phosphor-universal.jar",
+          "url": "https://cdn.modrinth.com/data/oCBQFmrZ/versions/EoRB0IqD/phosphor-universal.jar",
+          "sha512": "7390b4a6eefc6060bc86386261f77f4b7a7eebb579ca676baf9867ba4812ba3e0e82cc395ef05a6825d311f9be847a1539eb7102bcf93eabd510f25a56af9690",
+          "size": 1050928
+        }
+      ]
+    },
+    "fabric-1.21.11": {
+      "version": "1.66.1",
+      "minecraft": "1.21.11",
+      "loader": {
+        "fabric": "0.19.3"
+      },
+      "mods": [
+        {
+          "file": "cloudclient-fabric-mc1.21.11-1.66.1.jar",
+          "url": "https://raw.githubusercontent.com/pluters/cloudclient-downloads/main/files/fabric-1.21.11/cloudclient-fabric-mc1.21.11-1.66.1.jar",
+          "sha512": "a5379377a6322c0eea6337f50e6337806d5bc4374c595342bb34ebe921e4c7b29a5bcbb1476ec5a71e3e89db8a32002931cbbb8ba25dbd6a9ba4890e833f197f",
+          "size": 2037606
+        },
+        {
+          "file": "fabric-api-0.141.6+1.21.11.jar",
+          "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/6qAuTtLR/fabric-api-0.141.6%2B1.21.11.jar",
+          "sha512": "852d3682c4f353fd0ca86546af8578513e8bcf628377fa9d49c556bc59c5024c69ab56c92fc6dfba11fed19e4316a3f5636e7e07fd3d96f7043b531aef59b637",
+          "size": 2426039
+        },
+        {
+          "file": "sodium-fabric-0.8.14+mc1.21.11.jar",
+          "url": "https://cdn.modrinth.com/data/AANobbMI/versions/rkdTcxoT/sodium-fabric-0.8.14%2Bmc1.21.11.jar",
+          "sha512": "04c43f9e8534b87a52c42ffd51b0e344d4ef92dc9cc52da33d13af6a18bf74b05380d2027f1e0db982698d0aff274c42741c1e21b313b0cd75ed3af005fc98d9",
+          "size": 1909150
+        },
+        {
+          "file": "lithium-fabric-0.21.4+mc1.21.11.jar",
+          "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/Ow7wA0kG/lithium-fabric-0.21.4%2Bmc1.21.11.jar",
+          "sha512": "f14a5c3d2fad786347ca25083f902139694f618b7c103947f2fd067a7c5ee88a63e1ef8926f7d693ea79ed7d00f57317bae77ef9c2d630bf5ed01ac97a752b94",
+          "size": 900462
+        },
+        {
+          "file": "ferritecore-8.2.0-fabric.jar",
+          "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/Ii0gP3D8/ferritecore-8.2.0-fabric.jar",
+          "sha512": "3210926a82eb32efd9bcebabe2f6c053daf5c4337eebc6d5bacba96d283510afbde646e7e195751de795ec70a2ea44fef77cb54bf22c8e57bb832d6217418869",
+          "size": 80138
+        },
+        {
+          "file": "ImmediatelyFast-Fabric-1.14.3+1.21.11.jar",
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/4EwhsTu7/ImmediatelyFast-Fabric-1.14.3%2B1.21.11.jar",
+          "sha512": "2564cb28259352c3aa5759aceca62667de08a7860a40910dad40a043af851a074b2d75cef50b9fa6f1971febb3a5ecebe4067cbd4b60e63ef711b85f4bc21407",
+          "size": 302709
+        },
+        {
+          "file": "entityculling-fabric-1.11.2-mc1.21.11.jar",
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/CFBkR8Vm/entityculling-fabric-1.11.2-mc1.21.11.jar",
+          "sha512": "bb73145270e645c95a285fd01ce174f8f4b53e22c688e87d1a989f9afdf4e740ca3cb3984e23441ced8097c67e4e01f48d348d516b0903f756751d5c28e6de47",
+          "size": 1528856
+        },
+        {
+          "file": "moreculling-fabric-1.21.11-1.6.2.jar",
+          "url": "https://cdn.modrinth.com/data/51shyZVL/versions/wOzykoLV/moreculling-fabric-1.21.11-1.6.2.jar",
+          "sha512": "58cec88e84835c543d8604411f89a0984abe51f0332860354355ede290d2442fc33a86ecda1766e0b1a82ba4edfab27f3c9f6855c0af3234e200218b892756f2",
+          "size": 340975
+        },
+        {
+          "file": "cloth-config-21.11.153-fabric.jar",
+          "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/xuX40TN5/cloth-config-21.11.153-fabric.jar",
+          "sha512": "8f455489d4b71069e998568cf4e1450116f4360a4eb481cd89117f629c6883164886cf63ca08ac4fc929dd13d1112152755a6216d4a1498ee6406ef102093e51",
+          "size": 1148427
+        },
+        {
+          "file": "BadOptimizations-2.4.1-1.21.11.jar",
+          "url": "https://cdn.modrinth.com/data/g96Z4WVZ/versions/Q3Dusz2j/BadOptimizations-2.4.1-1.21.11.jar",
+          "sha512": "ff91f1866f21a13a32d379080b8efb5d4e07577591228c1d307b34d052696c9bdcbaf7706208dfbac56abc2c29482a15edcbf11f69fc0a01e459c4c20a5c2c28",
+          "size": 269545
+        },
+        {
+          "file": "dynamic-fps-3.11.6+minecraft-1.21.11-fabric.jar",
+          "url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/Fab7e5Th/dynamic-fps-3.11.6%2Bminecraft-1.21.11-fabric.jar",
+          "sha512": "c45652252e2176cb8e2c44dfd9032c617135a100dcf161b9e6e6717803c14d1359d0f940fa10dc1aa6ad80669983f4b9c5636c0c2953d3314e06f893f0cdc736",
+          "size": 219961
+        },
+        {
+          "file": "sodium-extra-fabric-0.9.4+mc1.21.11.jar",
+          "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/oqoegXMw/sodium-extra-fabric-0.9.4%2Bmc1.21.11.jar",
+          "sha512": "65d1c245ffc89efd8a3c9412efd4f11c2d365be2c15ec8a5edb8da4b9bca5537dea62bf0fd04462c34e2f785a9b3980b54d506a377bdb6f263a177b1d0e06edc",
+          "size": 471588
+        },
+        {
+          "file": "reeses-sodium-options-fabric-2.2.4+mc1.21.11.jar",
+          "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/ffpCc8nY/reeses-sodium-options-fabric-2.2.4%2Bmc1.21.11.jar",
+          "sha512": "224e324effcaa03a38582b05c09cbd79a5922e916888b45849d966a6a7f30a7be18a8cc2ea09f44e79e6ea1a8d143a28c3cbfafdb398025b48ab1a1a7d71fd49",
+          "size": 258250
+        },
+        {
+          "file": "modmenu-17.0.1.jar",
+          "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/cLkYaVuL/modmenu-17.0.1.jar",
+          "sha512": "cb68cc39c8da66d05a1d2054a0e7b62144881e0cdb5fd681bc4f337b1313fafac394246f4e0aa0c4b6343db9e9750250a00c1bb72689b762da685ce1ccfee51f",
+          "size": 960882
+        },
+        {
+          "file": "placeholder-api-2.8.2+1.21.10.jar",
+          "url": "https://cdn.modrinth.com/data/eXts2L7r/versions/qxjzQ9xY/placeholder-api-2.8.2%2B1.21.10.jar",
+          "sha512": "507ab10b7938dcd14d33121b8462649bdbe575cef248e917dfdf7566078ab5d0195ca1add95eae4863de3f652eb56db0a8669a67d5b5344e094d086f9dab5a08",
+          "size": 268662
+        },
+        {
+          "file": "continuity-3.0.1-beta.1+1.21.11.jar",
+          "url": "https://cdn.modrinth.com/data/1IjD5062/versions/mX1iknM1/continuity-3.0.1-beta.1%2B1.21.11.jar",
+          "sha512": "b092e95668bf5e32d531842d920e99f865213eaf3e7c26759b51e5a95ef2702c2c0485bba6d8adf4543e8d71680d5a05fad68e94159e8e507033b516b736eb60",
+          "size": 997125
+        },
+        {
+          "file": "nuit-fabric-1.0.0-beta.5+mc1.21.11.jar",
+          "url": "https://cdn.modrinth.com/data/YBz7DOs8/versions/5QKisAHR/nuit-fabric-1.0.0-beta.5%2Bmc1.21.11.jar",
+          "sha512": "a49df16f9b38b1458b445cbfa3cef87a0fd3030e5ce34566d6a312e5efab89b1248b1818507530123e482cb9db9969ebd31656584773d2c40a3864210da489ce",
+          "size": 778442
+        },
+        {
+          "file": "nuit-interop-fabric-1.0.0-beta.5+mc1.21.11.jar",
+          "url": "https://cdn.modrinth.com/data/HpdHOPOp/versions/XwT74nbP/nuit-interop-fabric-1.0.0-beta.5%2Bmc1.21.11.jar",
+          "sha512": "13b1efa95f2ee36c31f67d301d6a20300e4144ed0993e14f4f109dbcd0144a09c7b4a51dcc583b821b7066dd13d97084aee762e8009e8e00eb2ad6111df0d68d",
+          "size": 766997
+        }
+      ]
+    }
+  }
+}

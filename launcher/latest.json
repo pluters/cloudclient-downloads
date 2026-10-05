@@ -1,0 +1,11 @@
+{
+  "version": "0.1.0",
+  "notes": "cloud client launcher 0.1.0",
+  "pub_date": "2026-10-05T11:11:45.842Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTEF5ZldEQUVaSTZORTdyUHl0RU1IQ2ZGREFlZ01YMG41NlhaV2JSTDVXWkNyWjBNKzIxSm9IU2lQL1RXV05UeUtuNTMvTlNrNmVPcEJEekVYMER4NHBBWFY0aEQ4eHdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTk4NzA1CWZpbGU6Q2xvdWQgQ2xpZW50XzAuMS4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMAowbkQ1ZFpPRXU0enhyR3FJbytkMHpzZjVWMU1DeS8rTENZWGJRSU9JemFRUk05TkVpQ1hET3NiNU1oUS9LZjFoTVZjbGsxWitxRlhEWmhHNDFuQjFDdz09Cg==",
+      "url": "https://github.com/pluters/cloudclient-downloads/releases/download/launcher-v0.1.0/Cloud.Client_0.1.0_x64-setup.exe"
+    }
+  }
+}
