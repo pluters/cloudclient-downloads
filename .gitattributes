@@ -1,0 +1,2 @@
+# the manifest is signed byte for byte, so git must never touch line endings in here
+* -text
