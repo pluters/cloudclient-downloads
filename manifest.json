@@ -1,17 +1,17 @@
 {
   "profiles": {
     "forge-1.8.9": {
-      "version": "1.21.0",
+      "version": "1.22.0",
       "minecraft": "1.8.9",
       "loader": {
         "forge": "11.15.1.2318"
       },
       "mods": [
         {
-          "file": "cloudclient-forge-mc1.8.9-1.21.0.jar",
-          "url": "https://raw.githubusercontent.com/pluters/cloudclient-downloads/main/files/forge-1.8.9/cloudclient-forge-mc1.8.9-1.21.0.jar",
-          "sha512": "8db17e024953a65d9da662f000c6b9dea5df4f24bdec32393b4237d258db9d962a7f21a55b8613ed53d3ddbde3e6172849ecf849c1eed648d8d6ea7d705a2ff5",
-          "size": 3097176
+          "file": "cloudclient-forge-mc1.8.9-1.22.0.jar",
+          "url": "https://raw.githubusercontent.com/pluters/cloudclient-downloads/main/files/forge-1.8.9/cloudclient-forge-mc1.8.9-1.22.0.jar",
+          "sha512": "ce52ba76d66d997cb7698fdcb023ff88e3837ec6e4dc3ab56acbab742aa7fb32c18a94d18f34c74431cc4b3d570f77def9fa2701a5b7f5c4ac416754b0e8c908",
+          "size": 3103669
         },
         {
           "file": "OptiFine_1.8.9_HD_U_M5.jar",
@@ -46,17 +46,17 @@
       ]
     },
     "fabric-1.21.11": {
-      "version": "1.70.0",
+      "version": "1.71.0",
       "minecraft": "1.21.11",
       "loader": {
         "fabric": "0.19.3"
       },
       "mods": [
         {
-          "file": "cloudclient-fabric-mc1.21.11-1.70.0.jar",
-          "url": "https://raw.githubusercontent.com/pluters/cloudclient-downloads/main/files/fabric-1.21.11/cloudclient-fabric-mc1.21.11-1.70.0.jar",
-          "sha512": "707a8088e067eda9c4020be40d9c46b078842c321475a8ca6b5e94f9e1cbe9efda172542c5019b73125d507af49ba5a11a9187784c7727c2ac395fd8f77e65f3",
-          "size": 2068689
+          "file": "cloudclient-fabric-mc1.21.11-1.71.0.jar",
+          "url": "https://raw.githubusercontent.com/pluters/cloudclient-downloads/main/files/fabric-1.21.11/cloudclient-fabric-mc1.21.11-1.71.0.jar",
+          "sha512": "485f7efe4960725b5f93130c5cbf556fa958da83433d22a3e4753e1923f74c29adda52baae4a781965f27206360515e0e6640fc7aed94bd8fd9b42a1b297bff7",
+          "size": 2074149
         },
         {
           "file": "fabric-api-0.141.6+1.21.11.jar",
@@ -162,5 +162,19 @@
         }
       ]
     }
-  }
+  },
+  "changelog": [
+    {
+      "date": "2026-10-07",
+      "fabric": "1.71.0",
+      "forge": "1.22.0",
+      "notes": [
+        "Keybinds can use Ctrl, Shift or Alt combos. Two keybinds can share a key with different modifiers, for example back view on Mouse 4 and front view on Ctrl + Mouse 4. For Hurmple.",
+        "Zoom has a toggle mode and an optional cinematic camera while zoomed. For Hurmple.",
+        "Chat background opacity can be adjusted down to 0%. For Hurmple. Greedy fuck.",
+        "Snaplook option to hold the back or front view key to look, then return to your previous view on release. For Autie.",
+        "Every HUD element has a text opacity slider. For Autie."
+      ]
+    }
+  ]
 }
