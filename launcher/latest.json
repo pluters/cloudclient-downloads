@@ -1,11 +1,11 @@
 {
-  "version": "0.2.0",
-  "notes": "cloud client launcher 0.2.0",
-  "pub_date": "2026-10-05T15:33:17.098Z",
+  "version": "0.2.1",
+  "notes": "cloud client launcher 0.2.1",
+  "pub_date": "2026-10-06T10:45:59.193Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTEF5ZldEQUVaSTZMT0xvVGlTNDRsbWxtRGRDYStsZC9JZGtMVTloREwwRVlvekRPMXZzbDk4bzNpZjhReXhMRmxVYVlub3hiY2JTODBNUGtIMTk4blZqcDZYVy9naUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjE0Mzg3CWZpbGU6Q2xvdWQgQ2xpZW50XzAuMi4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMApWcWFlTnpjcldqSDBkQlZGeFdUeEk1TWR1M2N3WHlRL3l3MGJnZSs3eTNrVVVGQXFVS2xIbWZlamxsM1pVZ0N0OThUQ2I5NHc4RXV5b05rb1lJZTJEQT09Cg==",
-      "url": "https://github.com/pluters/cloudclient-downloads/releases/download/launcher-v0.2.0/Cloud.Client_0.2.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTEF5ZldEQUVaSXl1Ri9POXhnWEdENTFSYUc1VE41VklBSXJSY3N1WVhnNG9xQ0tjT3hRZjRVZ3FCd1BPUkVrTTNrcytvQ09zNVAyYVVUNTNzVEJrZE5iNWtqR0Z6WFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjgzNTUxCWZpbGU6Q2xvdWQgQ2xpZW50XzAuMi4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMQpJQjhnN2JWa0VXTENZM3VpT3grbk1VSXN4OVd3UDBKbHJKT09kbDFJdlE1ekN1b3psMi9nbHNwOXI0SmE3UWdFVzI2NjJweFk5ZDduczdlNUh6VFFBdz09Cg==",
+      "url": "https://github.com/pluters/cloudclient-downloads/releases/download/launcher-v0.2.1/Cloud.Client_0.2.1_x64-setup.exe"
     }
   }
 }
