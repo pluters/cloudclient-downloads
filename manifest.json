@@ -1,17 +1,17 @@
 {
   "profiles": {
     "forge-1.8.9": {
-      "version": "1.19.0",
+      "version": "1.20.0",
       "minecraft": "1.8.9",
       "loader": {
         "forge": "11.15.1.2318"
       },
       "mods": [
         {
-          "file": "cloudclient-forge-mc1.8.9-1.19.0.jar",
-          "url": "https://raw.githubusercontent.com/pluters/cloudclient-downloads/main/files/forge-1.8.9/cloudclient-forge-mc1.8.9-1.19.0.jar",
-          "sha512": "9630e9c3766c84b3e770b23bc1343ff05b79e11da8672126039689177bb8d6713a6f44555825a8bdcb4a28d05aaa52a52d19df08b293c5b660c54d3ae3330c54",
-          "size": 3087677
+          "file": "cloudclient-forge-mc1.8.9-1.20.0.jar",
+          "url": "https://raw.githubusercontent.com/pluters/cloudclient-downloads/main/files/forge-1.8.9/cloudclient-forge-mc1.8.9-1.20.0.jar",
+          "sha512": "4cc8190f6a00c85ff9e0e6908c271a2b74dc800adb54be583ca3fdf5be5f20e3e8d1cf2ac194245c64737fc541241724d971599d3572c5c0a1e00bdb4c4a4818",
+          "size": 3096109
         },
         {
           "file": "OptiFine_1.8.9_HD_U_M5.jar",
@@ -46,17 +46,17 @@
       ]
     },
     "fabric-1.21.11": {
-      "version": "1.68.0",
+      "version": "1.69.0",
       "minecraft": "1.21.11",
       "loader": {
         "fabric": "0.19.3"
       },
       "mods": [
         {
-          "file": "cloudclient-fabric-mc1.21.11-1.68.0.jar",
-          "url": "https://raw.githubusercontent.com/pluters/cloudclient-downloads/main/files/fabric-1.21.11/cloudclient-fabric-mc1.21.11-1.68.0.jar",
-          "sha512": "db7c488264c290f712b6150f62e75ed6fc56b0b72cdeeab1c0cae88629c236262d2baebecbb532040e82207085979ba17c2e39b2f300b012a29bd8d3cd7cd689",
-          "size": 2059540
+          "file": "cloudclient-fabric-mc1.21.11-1.69.0.jar",
+          "url": "https://raw.githubusercontent.com/pluters/cloudclient-downloads/main/files/fabric-1.21.11/cloudclient-fabric-mc1.21.11-1.69.0.jar",
+          "sha512": "9d42946a8737fbc05af951b7d0ad8379455436d565dc29efff78d7b7bfc129c375353e227d674e71d16b014a42acb230dd4a6ef01a38236b580f2d3465ae0e03",
+          "size": 2067698
         },
         {
           "file": "fabric-api-0.141.6+1.21.11.jar",
