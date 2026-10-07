@@ -1,17 +1,17 @@
 {
   "profiles": {
     "forge-1.8.9": {
-      "version": "1.22.0",
+      "version": "1.22.1",
       "minecraft": "1.8.9",
       "loader": {
         "forge": "11.15.1.2318"
       },
       "mods": [
         {
-          "file": "cloudclient-forge-mc1.8.9-1.22.0.jar",
-          "url": "https://raw.githubusercontent.com/pluters/cloudclient-downloads/main/files/forge-1.8.9/cloudclient-forge-mc1.8.9-1.22.0.jar",
-          "sha512": "ce52ba76d66d997cb7698fdcb023ff88e3837ec6e4dc3ab56acbab742aa7fb32c18a94d18f34c74431cc4b3d570f77def9fa2701a5b7f5c4ac416754b0e8c908",
-          "size": 3103669
+          "file": "cloudclient-forge-mc1.8.9-1.22.1.jar",
+          "url": "https://raw.githubusercontent.com/pluters/cloudclient-downloads/main/files/forge-1.8.9/cloudclient-forge-mc1.8.9-1.22.1.jar",
+          "sha512": "0b6a0df772c970a721c884670942a87cc530ff4b19f7192895d3600c8756a4cabaca01e02cf9c609135e8382d53254104051ca8d653e449b587c9f1a80d477c1",
+          "size": 3104948
         },
         {
           "file": "OptiFine_1.8.9_HD_U_M5.jar",
