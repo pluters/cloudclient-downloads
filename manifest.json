@@ -1,17 +1,17 @@
 {
   "profiles": {
     "forge-1.8.9": {
-      "version": "1.24.3",
+      "version": "1.25.1",
       "minecraft": "1.8.9",
       "loader": {
         "forge": "11.15.1.2318"
       },
       "mods": [
         {
-          "file": "cloudclient-forge-mc1.8.9-1.24.3.jar",
-          "url": "https://raw.githubusercontent.com/pluters/cloudclient-downloads/main/files/forge-1.8.9/cloudclient-forge-mc1.8.9-1.24.3.jar",
-          "sha512": "27f67452bf13e8f1639a22cfd793a1a04d2bc11fae960498598ccfc4868e00bb8099e29cc7f208cf5425453c43213457e6e5733015697540fb32b645f9984337",
-          "size": 3135696
+          "file": "cloudclient-forge-mc1.8.9-1.25.1.jar",
+          "url": "https://raw.githubusercontent.com/pluters/cloudclient-downloads/main/files/forge-1.8.9/cloudclient-forge-mc1.8.9-1.25.1.jar",
+          "sha512": "3f5210be53418c5dee1c17443f1d26d2bdc8527e691c1d95f9bfbf5962921a137e73d894f039e2073cbed14c2ec1ee05d76c9be63e55db1ad428f231c47572cf",
+          "size": 3143692
         },
         {
           "file": "OptiFine_1.8.9_HD_U_M5.jar",
@@ -46,17 +46,17 @@
       ]
     },
     "fabric-1.21.11": {
-      "version": "1.72.3",
+      "version": "1.73.1",
       "minecraft": "1.21.11",
       "loader": {
         "fabric": "0.19.3"
       },
       "mods": [
         {
-          "file": "cloudclient-fabric-mc1.21.11-1.72.3.jar",
-          "url": "https://raw.githubusercontent.com/pluters/cloudclient-downloads/main/files/fabric-1.21.11/cloudclient-fabric-mc1.21.11-1.72.3.jar",
-          "sha512": "681d2ab4bf9fed162e93581d04755f0a6d55af10974246cc547a426b96468ac59d19f16677e4b8b77790db0d36088e874cddc0575ae315e876e759d194bf6a76",
-          "size": 2103324
+          "file": "cloudclient-fabric-mc1.21.11-1.73.1.jar",
+          "url": "https://raw.githubusercontent.com/pluters/cloudclient-downloads/main/files/fabric-1.21.11/cloudclient-fabric-mc1.21.11-1.73.1.jar",
+          "sha512": "96f33683e209745a1c5d4cb5203d94cc2087d7f9b888347917596c715268dce839ccaea593b4b80fb9ecf23f5ae828489f172997dc4421c8372f7b4baa8941f9",
+          "size": 2104051
         },
         {
           "file": "fabric-api-0.141.6+1.21.11.jar",
@@ -164,6 +164,16 @@
     }
   },
   "changelog": [
+    {
+      "date": "2026-10-08",
+      "fabric": "1.73.1",
+      "forge": "1.25.1",
+      "notes": [
+        "Fixed Hurmple's stupid fucking fuckass mouse side button shit ass fucking stupid dumb bug",
+        "Added raw input under camera, mouse.",
+        "Each hitbox type (players, projectiles, mobs and more) now has its own line thickness slider, replacing the single thickness slider. You're welcome Kyld."
+      ]
+    },
     {
       "date": "2026-10-07",
       "fabric": "1.72.3",
