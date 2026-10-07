@@ -1,17 +1,17 @@
 {
   "profiles": {
     "forge-1.8.9": {
-      "version": "1.23.0",
+      "version": "1.24.3",
       "minecraft": "1.8.9",
       "loader": {
         "forge": "11.15.1.2318"
       },
       "mods": [
         {
-          "file": "cloudclient-forge-mc1.8.9-1.23.0.jar",
-          "url": "https://raw.githubusercontent.com/pluters/cloudclient-downloads/main/files/forge-1.8.9/cloudclient-forge-mc1.8.9-1.23.0.jar",
-          "sha512": "9ef7aca8f1fc168f1b714d5d23e88da0b4c4fa8a64e6296eb2bb1731ecd538dd4232c088fc26e82da78be7ff46fcd5cffdfe7f431fcf55bfed2ebe2a952655a2",
-          "size": 3106531
+          "file": "cloudclient-forge-mc1.8.9-1.24.3.jar",
+          "url": "https://raw.githubusercontent.com/pluters/cloudclient-downloads/main/files/forge-1.8.9/cloudclient-forge-mc1.8.9-1.24.3.jar",
+          "sha512": "27f67452bf13e8f1639a22cfd793a1a04d2bc11fae960498598ccfc4868e00bb8099e29cc7f208cf5425453c43213457e6e5733015697540fb32b645f9984337",
+          "size": 3135696
         },
         {
           "file": "OptiFine_1.8.9_HD_U_M5.jar",
@@ -46,17 +46,17 @@
       ]
     },
     "fabric-1.21.11": {
-      "version": "1.71.0",
+      "version": "1.72.3",
       "minecraft": "1.21.11",
       "loader": {
         "fabric": "0.19.3"
       },
       "mods": [
         {
-          "file": "cloudclient-fabric-mc1.21.11-1.71.0.jar",
-          "url": "https://raw.githubusercontent.com/pluters/cloudclient-downloads/main/files/fabric-1.21.11/cloudclient-fabric-mc1.21.11-1.71.0.jar",
-          "sha512": "485f7efe4960725b5f93130c5cbf556fa958da83433d22a3e4753e1923f74c29adda52baae4a781965f27206360515e0e6640fc7aed94bd8fd9b42a1b297bff7",
-          "size": 2074149
+          "file": "cloudclient-fabric-mc1.21.11-1.72.3.jar",
+          "url": "https://raw.githubusercontent.com/pluters/cloudclient-downloads/main/files/fabric-1.21.11/cloudclient-fabric-mc1.21.11-1.72.3.jar",
+          "sha512": "681d2ab4bf9fed162e93581d04755f0a6d55af10974246cc547a426b96468ac59d19f16677e4b8b77790db0d36088e874cddc0575ae315e876e759d194bf6a76",
+          "size": 2103324
         },
         {
           "file": "fabric-api-0.141.6+1.21.11.jar",
@@ -164,6 +164,17 @@
     }
   },
   "changelog": [
+    {
+      "date": "2026-10-07",
+      "fabric": "1.72.3",
+      "forge": "1.24.3",
+      "notes": [
+        "Custom capes!!! Just add a png or gif and you can resize it and",
+        "move it around etc.",
+        "(Its so badly implemented please dont spam it and report bugs",
+        "plsplsplsplsplsplspslspsls)"
+      ]
+    },
     {
       "date": "2026-10-07",
       "fabric": "1.71.0",
