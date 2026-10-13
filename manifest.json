@@ -1,17 +1,17 @@
 {
   "profiles": {
     "forge-1.8.9": {
-      "version": "1.26.0",
+      "version": "1.27.2",
       "minecraft": "1.8.9",
       "loader": {
         "forge": "11.15.1.2318"
       },
       "mods": [
         {
-          "file": "cloudclient-forge-mc1.8.9-1.26.0.jar",
-          "url": "https://raw.githubusercontent.com/pluters/cloudclient-downloads/main/files/forge-1.8.9/cloudclient-forge-mc1.8.9-1.26.0.jar",
-          "sha512": "5e85336b05e5068f12c35e846a26fc38ea064535b169760dd7fabfdc2e51ae17beaea2a1b786c65f2a8521c78d314ff98fb5ca95fc39eb07e5c526e0027a80b0",
-          "size": 3208176
+          "file": "cloudclient-forge-mc1.8.9-1.27.2.jar",
+          "url": "https://raw.githubusercontent.com/pluters/cloudclient-downloads/main/files/forge-1.8.9/cloudclient-forge-mc1.8.9-1.27.2.jar",
+          "sha512": "de02e5ef8a3753e7790437a646650bf3db2e881332533986ed91cbd20ac73e7159bcdcd3e75ba0d8640dbff110674ecf29f571f9e16283de034edf007a3a2b70",
+          "size": 3240029
         },
         {
           "file": "OptiFine_1.8.9_HD_U_M5.jar",
@@ -46,17 +46,17 @@
       ]
     },
     "fabric-1.21.11": {
-      "version": "1.74.0",
+      "version": "1.75.2",
       "minecraft": "1.21.11",
       "loader": {
         "fabric": "0.19.3"
       },
       "mods": [
         {
-          "file": "cloudclient-fabric-mc1.21.11-1.74.0.jar",
-          "url": "https://raw.githubusercontent.com/pluters/cloudclient-downloads/main/files/fabric-1.21.11/cloudclient-fabric-mc1.21.11-1.74.0.jar",
-          "sha512": "2445e9d37eb00b99f36315fdf0cb6ee4915a678b68344f925351273c45e8a9e2f7d03d599a0336e03f41f87c81d9fe09d701555163a360e90bc2825e006262d4",
-          "size": 2168738
+          "file": "cloudclient-fabric-mc1.21.11-1.75.2.jar",
+          "url": "https://raw.githubusercontent.com/pluters/cloudclient-downloads/main/files/fabric-1.21.11/cloudclient-fabric-mc1.21.11-1.75.2.jar",
+          "sha512": "a89a0d0b07c88c573e8e2dadf7ddece2d1623c59860ba86d0ee7a16cb86968a2b9ebab05c713d3f56a64dc8710a5caaccf4346706e881c537207455fa80e47c3",
+          "size": 2206319
         },
         {
           "file": "fabric-api-0.141.6+1.21.11.jar",
@@ -164,6 +164,18 @@
     }
   },
   "changelog": [
+    {
+      "date": "2026-10-13",
+      "fabric": "1.75.2",
+      "forge": "1.27.2",
+      "notes": [
+        "Sound controls, edit the volume of any sound separately",
+        "HUD editor redesign",
+        "Chat badges, you can turn them off but i think theyre pretty and i worked hard on them :D",
+        "Nick alerts",
+        "Scoreboard background opacity slider, and an optional new look (its in beta cause i have big plans for it in the future)"
+      ]
+    },
     {
       "date": "2026-10-08",
       "fabric": "1.73.1",
