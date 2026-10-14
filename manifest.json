@@ -1,17 +1,17 @@
 {
   "profiles": {
     "forge-1.8.9": {
-      "version": "1.27.3",
+      "version": "1.28.1",
       "minecraft": "1.8.9",
       "loader": {
         "forge": "11.15.1.2318"
       },
       "mods": [
         {
-          "file": "cloudclient-forge-mc1.8.9-1.27.3.jar",
-          "url": "https://raw.githubusercontent.com/pluters/cloudclient-downloads/main/files/forge-1.8.9/cloudclient-forge-mc1.8.9-1.27.3.jar",
-          "sha512": "7524c68ddb03c5c4aee41202fb7545521bf66df42f2731b7b82892906cc3e90dffcc82b0aee2086f6d47b27e19714d5d6ab0c4aa3c471c7675bb2009f519c25b",
-          "size": 3240010
+          "file": "cloudclient-forge-mc1.8.9-1.28.1.jar",
+          "url": "https://raw.githubusercontent.com/pluters/cloudclient-downloads/main/files/forge-1.8.9/cloudclient-forge-mc1.8.9-1.28.1.jar",
+          "sha512": "a1043680ba2417e42647079c4147a079cdc48dd2e73560965e47356b97f29f40a2373fab0bea1d4d581625a03fbbbc2621c4eab7d6a5d7fee6e53508227c3645",
+          "size": 3291210
         },
         {
           "file": "OptiFine_1.8.9_HD_U_M5.jar",
@@ -46,17 +46,17 @@
       ]
     },
     "fabric-1.21.11": {
-      "version": "1.75.3",
+      "version": "1.76.1",
       "minecraft": "1.21.11",
       "loader": {
         "fabric": "0.19.3"
       },
       "mods": [
         {
-          "file": "cloudclient-fabric-mc1.21.11-1.75.3.jar",
-          "url": "https://raw.githubusercontent.com/pluters/cloudclient-downloads/main/files/fabric-1.21.11/cloudclient-fabric-mc1.21.11-1.75.3.jar",
-          "sha512": "ddef97cb7055f5ef861f72fdea45cae3f2d070e004291d53dc8679f68c896054c65d907cd2905e1acd7ecfa34e19835c650a86b6b2df4c58dddbfb0862f0c0a5",
-          "size": 2206297
+          "file": "cloudclient-fabric-mc1.21.11-1.76.1.jar",
+          "url": "https://raw.githubusercontent.com/pluters/cloudclient-downloads/main/files/fabric-1.21.11/cloudclient-fabric-mc1.21.11-1.76.1.jar",
+          "sha512": "32e7b35b1a59e342e9ee0ba19e1380a0474ab4e8e9622d62022fdb0c5b61b3a83cbc4c701ff3f6bab68501dca1d5a9fa4a4da7f02c4fad89be2f6d75c175bdf9",
+          "size": 2270788
         },
         {
           "file": "fabric-api-0.141.6+1.21.11.jar",
@@ -164,6 +164,19 @@
     }
   },
   "changelog": [
+    {
+      "date": "2026-10-14",
+      "fabric": "1.76.1",
+      "forge": "1.28.1",
+      "notes": [
+        "Rank badges like the channel badges",
+        "More nbametag icons plus a 16 by 16 grid to draw your own which others can see. Please no penises.",
+        "Status bars: hide, move or resize health, hunger, armor, air and the XP bar",
+        "Hide scoreboard lines, make them bold or move them out into their own widget, saved separately for every game and lobby",
+        "Auto GG now works at the end of every Hypixel game (it only worked on mm before, oopsies)",
+        "Fixed the GLOBAL chat badge missing in games and arriving late in lobbies"
+      ]
+    },
     {
       "date": "2026-10-13",
       "fabric": "1.75.2",
