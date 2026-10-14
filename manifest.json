@@ -1,17 +1,17 @@
 {
   "profiles": {
     "forge-1.8.9": {
-      "version": "1.28.1",
+      "version": "1.29.1",
       "minecraft": "1.8.9",
       "loader": {
         "forge": "11.15.1.2318"
       },
       "mods": [
         {
-          "file": "cloudclient-forge-mc1.8.9-1.28.1.jar",
-          "url": "https://raw.githubusercontent.com/pluters/cloudclient-downloads/main/files/forge-1.8.9/cloudclient-forge-mc1.8.9-1.28.1.jar",
-          "sha512": "a1043680ba2417e42647079c4147a079cdc48dd2e73560965e47356b97f29f40a2373fab0bea1d4d581625a03fbbbc2621c4eab7d6a5d7fee6e53508227c3645",
-          "size": 3291210
+          "file": "cloudclient-forge-mc1.8.9-1.29.1.jar",
+          "url": "https://raw.githubusercontent.com/pluters/cloudclient-downloads/main/files/forge-1.8.9/cloudclient-forge-mc1.8.9-1.29.1.jar",
+          "sha512": "795c8814b9959808978b73c73fa42393d03866d1f95f5eab7a8b153f9700be80e310d00b61b47621da4764a7bd7f5c27679ca8d7cfd1a399e5dabb743e34ec2e",
+          "size": 3316113
         },
         {
           "file": "OptiFine_1.8.9_HD_U_M5.jar",
@@ -46,17 +46,17 @@
       ]
     },
     "fabric-1.21.11": {
-      "version": "1.76.1",
+      "version": "1.77.1",
       "minecraft": "1.21.11",
       "loader": {
         "fabric": "0.19.3"
       },
       "mods": [
         {
-          "file": "cloudclient-fabric-mc1.21.11-1.76.1.jar",
-          "url": "https://raw.githubusercontent.com/pluters/cloudclient-downloads/main/files/fabric-1.21.11/cloudclient-fabric-mc1.21.11-1.76.1.jar",
-          "sha512": "32e7b35b1a59e342e9ee0ba19e1380a0474ab4e8e9622d62022fdb0c5b61b3a83cbc4c701ff3f6bab68501dca1d5a9fa4a4da7f02c4fad89be2f6d75c175bdf9",
-          "size": 2270788
+          "file": "cloudclient-fabric-mc1.21.11-1.77.1.jar",
+          "url": "https://raw.githubusercontent.com/pluters/cloudclient-downloads/main/files/fabric-1.21.11/cloudclient-fabric-mc1.21.11-1.77.1.jar",
+          "sha512": "dcafbe7e91249fd3f8a560ab655c87eaaeef48856db42f9e22799b5746750194155aea0b5ad5b44273ea46ad9f94ae50b8e1c3b780e6eb004341f9786cec94a2",
+          "size": 2295718
         },
         {
           "file": "fabric-api-0.141.6+1.21.11.jar",
@@ -164,6 +164,18 @@
     }
   },
   "changelog": [
+    {
+      "date": "2026-10-14",
+      "fabric": "1.77.1",
+      "forge": "1.29.1",
+      "notes": [
+        "Murder Mystery role HUD: the scoreboard's stats as separate pieces",
+        "Three starting designs to pick from, top strip, crosshair focus and cute tiles. Any piece can be mixed in with any design",
+        "Pick which stats each piece shows, plus role colours, etc",
+        "The scoreboard hides itself during a round while the role HUD is on (can be turned off)",
+        "Optional ding when your bow or knife is ready again, with its own volume"
+      ]
+    },
     {
       "date": "2026-10-14",
       "fabric": "1.76.1",
