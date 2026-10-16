@@ -46,17 +46,17 @@
       ]
     },
     "fabric-1.21.11": {
-      "version": "1.77.4",
+      "version": "1.78.0",
       "minecraft": "1.21.11",
       "loader": {
         "fabric": "0.19.3"
       },
       "mods": [
         {
-          "file": "cloudclient-fabric-mc1.21.11-1.77.4.jar",
-          "url": "https://raw.githubusercontent.com/pluters/cloudclient-downloads/main/files/fabric-1.21.11/cloudclient-fabric-mc1.21.11-1.77.4.jar",
-          "sha512": "d25a1effdd555ecf02b87ee02744cadd920aae573448b57ed885ff835860115aa4a93735421d39344ae7398439dfb20382c0d573b57766390abdaa64b6a0dea2",
-          "size": 2305639
+          "file": "cloudclient-fabric-mc1.21.11-1.78.0.jar",
+          "url": "https://raw.githubusercontent.com/pluters/cloudclient-downloads/main/files/fabric-1.21.11/cloudclient-fabric-mc1.21.11-1.78.0.jar",
+          "sha512": "51baeb27031a10432dd822985a086bd02e4ae38752f154e250be40296851c7771ba7ebe4856ee762744d1ef634a14223539251eecb9e3381288580f112ee3665",
+          "size": 2305637
         },
         {
           "file": "fabric-api-0.141.6+1.21.11.jar",
