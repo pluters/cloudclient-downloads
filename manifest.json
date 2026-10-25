@@ -1,17 +1,17 @@
 {
   "profiles": {
     "forge-1.8.9": {
-      "version": "1.29.5",
+      "version": "1.29.6",
       "minecraft": "1.8.9",
       "loader": {
         "forge": "11.15.1.2318"
       },
       "mods": [
         {
-          "file": "cloudclient-forge-mc1.8.9-1.29.5.jar",
-          "url": "https://raw.githubusercontent.com/pluters/cloudclient-downloads/main/files/forge-1.8.9/cloudclient-forge-mc1.8.9-1.29.5.jar",
-          "sha512": "dc50fa39d0ed82c5c567d3c8cfd6dc1aa7747a41edaaf0569ab4724d4b3df0759daabe76f2de99334458ac507ea31b1bdfad92d4a3a532c5ae2b49b68acd0d36",
-          "size": 3326736
+          "file": "cloudclient-forge-mc1.8.9-1.29.6.jar",
+          "url": "https://raw.githubusercontent.com/pluters/cloudclient-downloads/main/files/forge-1.8.9/cloudclient-forge-mc1.8.9-1.29.6.jar",
+          "sha512": "a6314488ea8912f596df7c2d027ddf959ff7cafa7bbfdd10b500ef3a8096e29b39cbd4f9dec1b7941fb24f5ad41d32773580e8fa6804965dc910c95734b2a89e",
+          "size": 3328547
         },
         {
           "file": "OptiFine_1.8.9_HD_U_M5.jar",
@@ -46,17 +46,17 @@
       ]
     },
     "fabric-1.21.11": {
-      "version": "1.78.1",
+      "version": "1.79.0",
       "minecraft": "1.21.11",
       "loader": {
         "fabric": "0.19.3"
       },
       "mods": [
         {
-          "file": "cloudclient-fabric-mc1.21.11-1.78.1.jar",
-          "url": "https://raw.githubusercontent.com/pluters/cloudclient-downloads/main/files/fabric-1.21.11/cloudclient-fabric-mc1.21.11-1.78.1.jar",
-          "sha512": "26b08de075851200777dd90a2028d6c88531fc885ff7ba2846285e6e358dc65b4a7cb1006e29967e9f0079ad065d97e643587a0c6d9d7d40557d6e4e4b39d7cf",
-          "size": 2305585
+          "file": "cloudclient-fabric-mc1.21.11-1.79.0.jar",
+          "url": "https://raw.githubusercontent.com/pluters/cloudclient-downloads/main/files/fabric-1.21.11/cloudclient-fabric-mc1.21.11-1.79.0.jar",
+          "sha512": "86454a4806fbb6f19a23d15624780420e261c9da9d9cdadc11a404d16c9d67eb76e4caec55bb84adb7dfb6009472b4c0e9d12711b3f6d881ea39fcb20c66d89a",
+          "size": 2307795
         },
         {
           "file": "fabric-api-0.141.6+1.21.11.jar",
@@ -164,6 +164,15 @@
     }
   },
   "changelog": [
+    {
+      "date": "2026-10-25",
+      "fabric": "1.79.0",
+      "forge": "1.29.6",
+      "notes": [
+        "New clean screenshot key that saves a screenshot without the chat or the HUD.",
+        "So get to taking screenshots and making more memories :)"
+      ]
+    },
     {
       "date": "2026-10-14",
       "fabric": "1.77.1",
