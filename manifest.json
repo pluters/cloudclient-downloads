@@ -1,17 +1,17 @@
 {
   "profiles": {
     "forge-1.8.9": {
-      "version": "1.29.6",
+      "version": "1.30.0",
       "minecraft": "1.8.9",
       "loader": {
         "forge": "11.15.1.2318"
       },
       "mods": [
         {
-          "file": "cloudclient-forge-mc1.8.9-1.29.6.jar",
-          "url": "https://raw.githubusercontent.com/pluters/cloudclient-downloads/main/files/forge-1.8.9/cloudclient-forge-mc1.8.9-1.29.6.jar",
-          "sha512": "a6314488ea8912f596df7c2d027ddf959ff7cafa7bbfdd10b500ef3a8096e29b39cbd4f9dec1b7941fb24f5ad41d32773580e8fa6804965dc910c95734b2a89e",
-          "size": 3328547
+          "file": "cloudclient-forge-mc1.8.9-1.30.0.jar",
+          "url": "https://raw.githubusercontent.com/pluters/cloudclient-downloads/main/files/forge-1.8.9/cloudclient-forge-mc1.8.9-1.30.0.jar",
+          "sha512": "7686dd61db49a1839aa46be25be0e644705d98480886f6d09d5cfa942390a31b0152096c2815d7471c732d4368fa5f1ed0f3d3208bd22e6f9c3d33a8d6b2401f",
+          "size": 3335429
         },
         {
           "file": "OptiFine_1.8.9_HD_U_M5.jar",
@@ -46,17 +46,17 @@
       ]
     },
     "fabric-1.21.11": {
-      "version": "1.79.0",
+      "version": "1.80.0",
       "minecraft": "1.21.11",
       "loader": {
         "fabric": "0.19.3"
       },
       "mods": [
         {
-          "file": "cloudclient-fabric-mc1.21.11-1.79.0.jar",
-          "url": "https://raw.githubusercontent.com/pluters/cloudclient-downloads/main/files/fabric-1.21.11/cloudclient-fabric-mc1.21.11-1.79.0.jar",
-          "sha512": "86454a4806fbb6f19a23d15624780420e261c9da9d9cdadc11a404d16c9d67eb76e4caec55bb84adb7dfb6009472b4c0e9d12711b3f6d881ea39fcb20c66d89a",
-          "size": 2307795
+          "file": "cloudclient-fabric-mc1.21.11-1.80.0.jar",
+          "url": "https://raw.githubusercontent.com/pluters/cloudclient-downloads/main/files/fabric-1.21.11/cloudclient-fabric-mc1.21.11-1.80.0.jar",
+          "sha512": "5a39daa23a58c1317b26ab5f3e5d4d9921ee477512e946e7eb51bae9730d9c170a3e1abd305a37a5226d6c97cbad8a24a42609f001c896536624de1ff56a1ad2",
+          "size": 2312712
         },
         {
           "file": "fabric-api-0.141.6+1.21.11.jar",
@@ -164,6 +164,17 @@
     }
   },
   "changelog": [
+    {
+      "date": "2026-10-30",
+      "fabric": "1.80.0",
+      "forge": "1.30.0",
+      "notes": [
+        "Custom capes now show over optifine capes so the optifine cape is still visible to everyone, no more disabling it",
+        "Improved color picker for someone who specifically wanted it",
+        "Guild bridge tag for the bridge bot",
+        "Fixed a bug prevalent for 1.8.9 in party games where nametags on mobs would not render unless you looked specifically at them"
+      ]
+    },
     {
       "date": "2026-10-25",
       "fabric": "1.79.0",
