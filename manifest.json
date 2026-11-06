@@ -1,17 +1,17 @@
 {
   "profiles": {
     "forge-1.8.9": {
-      "version": "1.30.1",
+      "version": "1.31.0",
       "minecraft": "1.8.9",
       "loader": {
         "forge": "11.15.1.2318"
       },
       "mods": [
         {
-          "file": "cloudclient-forge-mc1.8.9-1.30.1.jar",
-          "url": "https://raw.githubusercontent.com/pluters/cloudclient-downloads/main/files/forge-1.8.9/cloudclient-forge-mc1.8.9-1.30.1.jar",
-          "sha512": "bdb97f8e85d37a47735a978b89dc4cdfd44f777139fb088c2a878006ad00da4d83db42df16264e4a8967f2f5993e4a9812ef5a22101cadbc3e6884eca285a8c0",
-          "size": 3335435
+          "file": "cloudclient-forge-mc1.8.9-1.31.0.jar",
+          "url": "https://raw.githubusercontent.com/pluters/cloudclient-downloads/main/files/forge-1.8.9/cloudclient-forge-mc1.8.9-1.31.0.jar",
+          "sha512": "404c7e05e9730067d7d6faa2a441ae6eef3a6f446d9e8e17d353dc8dc6c3c3f846ab755f6f47a5367f52313f84c4ed648b822aae160595b916937c60a6319e0e",
+          "size": 3337751
         },
         {
           "file": "OptiFine_1.8.9_HD_U_M5.jar",
@@ -46,17 +46,17 @@
       ]
     },
     "fabric-1.21.11": {
-      "version": "1.80.1",
+      "version": "1.81.0",
       "minecraft": "1.21.11",
       "loader": {
         "fabric": "0.19.3"
       },
       "mods": [
         {
-          "file": "cloudclient-fabric-mc1.21.11-1.80.1.jar",
-          "url": "https://raw.githubusercontent.com/pluters/cloudclient-downloads/main/files/fabric-1.21.11/cloudclient-fabric-mc1.21.11-1.80.1.jar",
-          "sha512": "f911384c0fece12c0b5e5ec889356c233b0a47e9e6d4802e00a24c5b48b0da639c351d755fc9b15688ec5991f0232ed295afc65349d3e48c9a45111bb7a0bd2f",
-          "size": 2312714
+          "file": "cloudclient-fabric-mc1.21.11-1.81.0.jar",
+          "url": "https://raw.githubusercontent.com/pluters/cloudclient-downloads/main/files/fabric-1.21.11/cloudclient-fabric-mc1.21.11-1.81.0.jar",
+          "sha512": "e04a5c974bf79f3217d551b8aa2598418f4a559406228196961b59b4be54fb7f14cd64e957c5cb7bf9647d13e00c8b70cfbca21cf950a19e550c68365fa5b300",
+          "size": 2313549
         },
         {
           "file": "fabric-api-0.141.6+1.21.11.jar",
@@ -164,6 +164,15 @@
     }
   },
   "changelog": [
+    {
+      "date": "2026-11-06",
+      "fabric": "1.81.0",
+      "forge": "1.31.0",
+      "notes": [
+        "FINALLY fixed fullbright after procrastinating over it, SHOULD work perfectly now",
+        "Can now pick a front color for the cape if you want to use asmaller picture, for one"
+      ]
+    },
     {
       "date": "2026-10-30",
       "fabric": "1.80.0",
