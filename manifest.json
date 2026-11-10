@@ -1,17 +1,17 @@
 {
   "profiles": {
     "forge-1.8.9": {
-      "version": "1.31.0",
+      "version": "1.31.1",
       "minecraft": "1.8.9",
       "loader": {
         "forge": "11.15.1.2318"
       },
       "mods": [
         {
-          "file": "cloudclient-forge-mc1.8.9-1.31.0.jar",
-          "url": "https://raw.githubusercontent.com/pluters/cloudclient-downloads/main/files/forge-1.8.9/cloudclient-forge-mc1.8.9-1.31.0.jar",
-          "sha512": "404c7e05e9730067d7d6faa2a441ae6eef3a6f446d9e8e17d353dc8dc6c3c3f846ab755f6f47a5367f52313f84c4ed648b822aae160595b916937c60a6319e0e",
-          "size": 3337751
+          "file": "cloudclient-forge-mc1.8.9-1.31.1.jar",
+          "url": "https://raw.githubusercontent.com/pluters/cloudclient-downloads/main/files/forge-1.8.9/cloudclient-forge-mc1.8.9-1.31.1.jar",
+          "sha512": "9452b620cbb39fffccef50adca6664016e7337a8a2cbd496b13de6a9513702b9cb1401e4c79166ea022470e52d21bc01826e598685b08b47a8464676271b362e",
+          "size": 3339045
         },
         {
           "file": "OptiFine_1.8.9_HD_U_M5.jar",
@@ -46,17 +46,17 @@
       ]
     },
     "fabric-1.21.11": {
-      "version": "1.81.0",
+      "version": "1.81.1",
       "minecraft": "1.21.11",
       "loader": {
         "fabric": "0.19.3"
       },
       "mods": [
         {
-          "file": "cloudclient-fabric-mc1.21.11-1.81.0.jar",
-          "url": "https://raw.githubusercontent.com/pluters/cloudclient-downloads/main/files/fabric-1.21.11/cloudclient-fabric-mc1.21.11-1.81.0.jar",
-          "sha512": "e04a5c974bf79f3217d551b8aa2598418f4a559406228196961b59b4be54fb7f14cd64e957c5cb7bf9647d13e00c8b70cfbca21cf950a19e550c68365fa5b300",
-          "size": 2313549
+          "file": "cloudclient-fabric-mc1.21.11-1.81.1.jar",
+          "url": "https://raw.githubusercontent.com/pluters/cloudclient-downloads/main/files/fabric-1.21.11/cloudclient-fabric-mc1.21.11-1.81.1.jar",
+          "sha512": "7b6aa9e9ff893bbbc6f8e226b594d60b1e67afb0e95702619e5f61754f5545f5144734aa1c325ed8bc571b47a856f84229f54ddfd778b78fd0b0aaf9b7b46a20",
+          "size": 2314629
         },
         {
           "file": "fabric-api-0.141.6+1.21.11.jar",
@@ -164,6 +164,15 @@
     }
   },
   "changelog": [
+    {
+      "date": "2026-11-10",
+      "fabric": "1.81.1",
+      "forge": "1.31.1",
+      "notes": [
+        "1.8.9: the third person camera now goes through signs, levers, vines and other blocks you can walk through, like it does on modern",
+        "Murder Mystery: the bow/knife recharge ding volume slider now goes up to 300%"
+      ]
+    },
     {
       "date": "2026-11-06",
       "fabric": "1.81.0",
